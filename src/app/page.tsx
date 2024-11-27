@@ -1,11 +1,11 @@
-import React from 'react'
+import Balance from "@/components/Balance";
 
 function page() {
   return (
     <div>
-      Hello
+      <Balance />
     </div>
-  )
+  );
 }
 
-export default page
+export default page;
